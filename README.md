@@ -1,5 +1,6 @@
 ### Hi there 👋
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=YasserAhmedMoh&theme=dark&show_icons=true">](https://metrics.lecoq.io/YasserAhmedMoh?template=classic)
+<p><img align="center" alt="gif" src="https://github.com/YasserAhmedMoh/YasserAhmedMoh/blob/main/YasserAhmed.gif" width="600" height="300" /><p>
+[<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=YasserAhmedMoh&theme=dark&show_icons=true">](https://metrics.lecoq.io/YasserAhmedMoh?template=classic)
 
 <!--
 **YasserAhmedMoh/YasserAhmedMoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
