@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm</h1>
-<p><img align="left" alt="gif" src="https://github.com/YasserAhmedMoh/YasserAhmedMoh/blob/main/YasserAhmed.gif" width="600" height="300" /><p>
-[![](https://github.com/YasserAhmedMoh/YasserAhmedMoh/blob/main/YasserAhmed.gif)](www.linkedin.com/in/yasser-ahmed-abozaid/)<!-- If you want the template for my gif, email me! -->
+<p><img padding-left="100" alt="gif" src="https://github.com/YasserAhmedMoh/YasserAhmedMoh/blob/main/YasserAhmed.gif" width="600" height="300" /><p>
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YasserAhmedMoh&show_icons=true&theme=gotham" alt="YasserAhmedMoh" /> <!--you can use merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula-->
 
 <!--
