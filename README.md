@@ -3,7 +3,7 @@
 <p align="center" href="www.linkedin.com/in/yasser-ahmed-abozaid">
   <img alt="gif" src="https://github.com/YasserAhmedMoh/YasserAhmedMoh/blob/main/YasserAhmed.gif" width="600" height="300" />
 <p>
-  [<img src="https://github.com/YasserAhmedMoh/YasserAhmedMoh/blob/main/YasserAhmed.gif" alt="👋 Hi there! I'm Yasser" />](www.linkedin.com/in/yasser-ahmed-abozaid)
+  [<img src="https://github.com/YasserAhmedMoh/YasserAhmedMoh/blob/main/YasserAhmed.gif" alt="👋 Hi there! I'm Yasser" />](https://www.linkedin.com/in/yasser-ahmed-abozaid/)
 
 
 
