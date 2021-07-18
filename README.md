@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm</h1>
-<a align="center" href="www.linkedin.com/in/yasser-ahmed-abozaid">
+<p align="center" href="www.linkedin.com/in/yasser-ahmed-abozaid">
   <img alt="gif" src="https://github.com/YasserAhmedMoh/YasserAhmedMoh/blob/main/YasserAhmed.gif" width="600" height="300" />
-<a>
+<p>
 
 
 
