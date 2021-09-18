@@ -3,7 +3,8 @@
 <p align="center" href="www.linkedin.com/in/yasser-ahmed-abozaid">
   <img alt="gif" src="https://github.com/YasserAhmedMoh/YasserAhmedMoh/blob/main/YasserAhmed.gif" width="600" height="300" />
 <p>
- 
+
+ [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=YasserAhmedMoh&count_private=true&theme=tokyonight&showicons=true)]()
 
 
 <!--
